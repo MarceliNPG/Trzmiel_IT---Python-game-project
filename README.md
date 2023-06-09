@@ -3,7 +3,7 @@
 
 Trzmiel_IT is a python project made for Project Management Tools course at AGH UST.
 ## Goal
-Main goal for making this project was to get used to managment tools such as Scrum or Git.
+Main goal for making this project was to get used to managment tools such as Scrum, Kanban board or Git.
 
 ## Genesis and details
 Instead of making easy tic-tac-toe game we decided to create fun, bumblebee-themed game based on Flappy Bird.
@@ -32,3 +32,8 @@ Gameplay:
 Game Over window: 
 
 ![image](https://github.com/MarceliNPG/Trzmiel_IT-Python-game-project/assets/102309400/54c1cc91-3137-428c-afeb-19f85b680af0)
+
+Finished second sprint's Kanban board:
+
+![image](https://github.com/MarceliNPG/Trzmiel_IT-Python-game-project/assets/102309400/e187476a-9eab-4695-8948-c8be7102a7e1)
+
