@@ -29,6 +29,6 @@ Gameplay:
 
 ![image](https://github.com/MarceliNPG/Trzmiel_IT-Python-game-project/assets/102309400/2e310afe-e307-4b86-a591-019e4409cd54)
 
-Game over window: 
+Game Over window: 
 
 ![image](https://github.com/MarceliNPG/Trzmiel_IT-Python-game-project/assets/102309400/54c1cc91-3137-428c-afeb-19f85b680af0)
