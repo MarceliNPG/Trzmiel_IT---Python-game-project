@@ -17,7 +17,7 @@ The longer you survive, the higher is your score. Highest score is saved through
 You can jump by pressing spacebar or upward arrow. 
 ## Results
 Our project resulted in finishing course with highest possible grade - 5.0.
-Game got pretty popular in our enviroment because of it's difficulty. Many people is still trying to beat their highscore.
+Game got pretty popular in our enviroment because of it's difficulty. Many people are still trying to beat their highscore.
 
 ## Images
 
